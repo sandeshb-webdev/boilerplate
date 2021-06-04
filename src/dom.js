@@ -5,4 +5,4 @@
 
 
 //WE ARE EXPORTING ALL AT ONCE INSTEAD OF EXPROTING EVERY SEGMENT INDEPENDENTLY
-export {somefunc1, somefunc2, somefunc3}
+// export {somefunc1, somefunc2, somefunc3}
